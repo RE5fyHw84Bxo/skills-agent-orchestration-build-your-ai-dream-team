@@ -1,0 +1,39 @@
+{
+  "projects": [
+    {
+      "name": "Customer Portal Refresh",
+      "owner": "Mona Patel",
+      "status": "Active",
+      "recentActivity": "Completed usability testing with 12 customers; incorporating the final feedback this week.",
+      "priority": "High"
+    },
+    {
+      "name": "Community Resource Hub",
+      "owner": "Eli Chen",
+      "status": "At risk",
+      "recentActivity": "Content migration is underway; two partner approvals are still outstanding.",
+      "priority": "High"
+    },
+    {
+      "name": "Analytics Foundations",
+      "owner": "Rosa Martinez",
+      "status": "Active",
+      "recentActivity": "The shared event schema was reviewed and is ready for implementation.",
+      "priority": "Medium"
+    },
+    {
+      "name": "Volunteer Onboarding",
+      "owner": "Jordan Lee",
+      "status": "Blocked",
+      "recentActivity": "Launch checklist is complete, pending access to the identity provider sandbox.",
+      "priority": "Medium"
+    },
+    {
+      "name": "Accessibility Improvements",
+      "owner": "Sam Okafor",
+      "status": "Active",
+      "recentActivity": "Keyboard navigation fixes shipped to staging; screen-reader review is next.",
+      "priority": "Low"
+    }
+  ]
+}
